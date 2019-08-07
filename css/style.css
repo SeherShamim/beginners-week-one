@@ -1,0 +1,16 @@
+html, body {
+ font-family: 'Beth Ellen', cursive;
+ background-color: red;
+}
+
+.code {
+ width:60%;
+}
+
+.duck{
+  width:20%;
+}
+
+h1 {
+  colour:green;
+}
